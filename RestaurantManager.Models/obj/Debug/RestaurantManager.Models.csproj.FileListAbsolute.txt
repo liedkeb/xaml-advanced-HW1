@@ -1,0 +1,34 @@
+C:\Users\Sidne\Desktop\xaml-solutions\course-2\mod2hw_solution\RestaurantManager.Models\bin\Debug\RestaurantManager.Models.dll
+C:\Users\Sidne\Desktop\xaml-solutions\course-2\mod2hw_solution\RestaurantManager.Models\bin\Debug\RestaurantManager.Models.pdb
+C:\Users\Sidne\Desktop\xaml-solutions\course-2\mod2hw_solution\RestaurantManager.Models\bin\Debug\RestaurantManager.Models.pri
+C:\Users\Sidne\Desktop\xaml-solutions\course-2\mod2hw_solution\RestaurantManager.Models\obj\Debug\RestaurantManager.Models.dll
+C:\Users\Sidne\Desktop\xaml-solutions\course-2\mod2hw_solution\RestaurantManager.Models\obj\Debug\RestaurantManager.Models.pdb
+C:\Users\Sidne\Desktop\xaml-solutions\course-2\mod2hw_solution\RestaurantManager.Models\obj\Debug\ResourceHandlingTask.state
+C:\Users\Sidne\Desktop\xaml-solutions\course-2\mod2hw_solution\RestaurantManager.Models\obj\Debug\priconfig.xml
+C:\Users\Sidne\Desktop\xaml-solutions\course-2\mod2hw_solution\RestaurantManager.Models\obj\Debug\priconfig.xml.intermediate
+C:\Users\Sidne\Desktop\xaml-solutions\course-2\mod2hw_solution\RestaurantManager.Models\obj\Debug\layout.resfiles
+C:\Users\Sidne\Desktop\xaml-solutions\course-2\mod2hw_solution\RestaurantManager.Models\obj\Debug\layout.resfiles.intermediate
+C:\Users\Sidne\Desktop\xaml-solutions\course-2\mod2hw_solution\RestaurantManager.Models\obj\Debug\resources.resfiles
+C:\Users\Sidne\Desktop\xaml-solutions\course-2\mod2hw_solution\RestaurantManager.Models\obj\Debug\resources.resfiles.intermediate
+C:\Users\Sidne\Desktop\xaml-solutions\course-2\mod2hw_solution\RestaurantManager.Models\obj\Debug\pri.resfiles
+C:\Users\Sidne\Desktop\xaml-solutions\course-2\mod2hw_solution\RestaurantManager.Models\obj\Debug\pri.resfiles.intermediate
+C:\Users\Sidne\Desktop\xaml-solutions\course-2\mod2hw_solution\RestaurantManager.Models\obj\Debug\qualifiers.txt
+C:\Users\Sidne\Desktop\xaml-solutions\course-2\mod2hw_solution\RestaurantManager.Models\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Sidne\Desktop\xaml-solutions\course-2\mod2hw_solution\RestaurantManager.Models\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\liedkeb\Documents\Visual Studio 2015\Projects\Advanced XAML\Module 1\hwstart\RestaurantManager.Models\bin\Debug\RestaurantManager.Models.dll
+C:\Users\liedkeb\Documents\Visual Studio 2015\Projects\Advanced XAML\Module 1\hwstart\RestaurantManager.Models\bin\Debug\RestaurantManager.Models.pdb
+C:\Users\liedkeb\Documents\Visual Studio 2015\Projects\Advanced XAML\Module 1\hwstart\RestaurantManager.Models\bin\Debug\RestaurantManager.Models.pri
+C:\Users\liedkeb\Documents\Visual Studio 2015\Projects\Advanced XAML\Module 1\hwstart\RestaurantManager.Models\obj\Debug\RestaurantManager.Models.csprojResolveAssemblyReference.cache
+C:\Users\liedkeb\Documents\Visual Studio 2015\Projects\Advanced XAML\Module 1\hwstart\RestaurantManager.Models\obj\Debug\RestaurantManager.Models.dll
+C:\Users\liedkeb\Documents\Visual Studio 2015\Projects\Advanced XAML\Module 1\hwstart\RestaurantManager.Models\obj\Debug\RestaurantManager.Models.pdb
+C:\Users\liedkeb\Documents\Visual Studio 2015\Projects\Advanced XAML\Module 1\hwstart\RestaurantManager.Models\obj\Debug\priconfig.xml
+C:\Users\liedkeb\Documents\Visual Studio 2015\Projects\Advanced XAML\Module 1\hwstart\RestaurantManager.Models\obj\Debug\priconfig.xml.intermediate
+C:\Users\liedkeb\Documents\Visual Studio 2015\Projects\Advanced XAML\Module 1\hwstart\RestaurantManager.Models\obj\Debug\layout.resfiles
+C:\Users\liedkeb\Documents\Visual Studio 2015\Projects\Advanced XAML\Module 1\hwstart\RestaurantManager.Models\obj\Debug\layout.resfiles.intermediate
+C:\Users\liedkeb\Documents\Visual Studio 2015\Projects\Advanced XAML\Module 1\hwstart\RestaurantManager.Models\obj\Debug\resources.resfiles
+C:\Users\liedkeb\Documents\Visual Studio 2015\Projects\Advanced XAML\Module 1\hwstart\RestaurantManager.Models\obj\Debug\resources.resfiles.intermediate
+C:\Users\liedkeb\Documents\Visual Studio 2015\Projects\Advanced XAML\Module 1\hwstart\RestaurantManager.Models\obj\Debug\pri.resfiles
+C:\Users\liedkeb\Documents\Visual Studio 2015\Projects\Advanced XAML\Module 1\hwstart\RestaurantManager.Models\obj\Debug\pri.resfiles.intermediate
+C:\Users\liedkeb\Documents\Visual Studio 2015\Projects\Advanced XAML\Module 1\hwstart\RestaurantManager.Models\obj\Debug\qualifiers.txt
+C:\Users\liedkeb\Documents\Visual Studio 2015\Projects\Advanced XAML\Module 1\hwstart\RestaurantManager.Models\obj\Debug\qualifiers.txt.intermediate
+C:\Users\liedkeb\Documents\Visual Studio 2015\Projects\Advanced XAML\Module 1\hwstart\RestaurantManager.Models\obj\Debug\MultipleQualifiersPerDimensionFound.txt
