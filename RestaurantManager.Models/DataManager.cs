@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel;
+using System.Runtime.CompilerServices;
 
 namespace RestaurantManager.Models
 {
@@ -11,7 +12,13 @@ namespace RestaurantManager.Models
         {
             LoadData();
         }
-
+        public void OnPropertyChanged([CallerMemberName]string propName = null)
+        {
+            if (PropertyChanged != null)
+            {
+                this.PropertyChanged(this, new PropertyChangedEventArgs(propName));
+            }
+        }
         private async void LoadData()
         {
             this.Repository = new RestaurantContext();
