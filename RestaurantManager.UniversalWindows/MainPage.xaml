@@ -6,6 +6,14 @@
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d">
+    <Page.Resources>
+        <ControlTemplate x:Key="ButtonControlTemplate" TargetType="Button">
+            <Border CornerRadius="20" Background="{TemplateBinding Background}" >
+                <ContentPresenter Content="{TemplateBinding Content}" ContentTemplate="{TemplateBinding ContentTemplate}" Margin="{TemplateBinding Padding}" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="{TemplateBinding Foreground}"/>
+            </Border>
+        </ControlTemplate>
+    </Page.Resources>
+
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
         <Grid.RowDefinitions>
             <RowDefinition Height="0.40*" />
@@ -18,7 +26,7 @@
         </Grid.ColumnDefinitions>
         <TextBlock Text="Restaurant Manager" Style="{StaticResource HeaderTextBlockStyle}" HorizontalAlignment="Center" VerticalAlignment="Bottom" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" />
         <TextBlock Text="Internal Test Version" Style="{StaticResource SubheaderTextBlockStyle}" HorizontalAlignment="Center" VerticalAlignment="Bottom" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2" />
-        <Button Content="Go to Orders View" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="2" Grid.Column="0" Click="ExpeditePage_Click" />
-        <Button Content="Submit Order" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="2" Grid.Column="1" Click="OrderPage_Click" />
+        <Button Content="Go to Orders View"  HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="2" Grid.Column="0" Click="ExpeditePage_Click" Template="{StaticResource ButtonControlTemplate}" />
+        <Button Content="Submit Order" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="2" Grid.Column="1" Click="OrderPage_Click" Template="{StaticResource ButtonControlTemplate}"/>
     </Grid>
 </Page>
