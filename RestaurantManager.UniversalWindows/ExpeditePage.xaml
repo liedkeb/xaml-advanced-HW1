@@ -25,7 +25,40 @@
             <RowDefinition Height="0.85*"/>
             <RowDefinition Height="0.10*"/>
         </Grid.RowDefinitions>
-        <GridView Grid.Row="1" ItemsSource="{Binding OrderItems}">
+        
+        <GridView Grid.Row="1" ItemsSource="{Binding OrderItems}" >
+
+            <GridView.ItemTemplate>
+                <DataTemplate >
+                    <Grid Height="350" Width="300" Margin="10" Background="Gray" Padding="10,0">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="1*" />
+                            <RowDefinition Height="3*" />
+                            <RowDefinition Height="1*" />
+                            <RowDefinition Height="1*" />
+                            <RowDefinition Height="Auto" />
+                        </Grid.RowDefinitions>
+                        <TextBlock Style="{StaticResource SubheaderTextBlockStyle}" FontWeight="Bold" Text="Order:" Grid.Row="0"/>
+                        <ListBox ItemsSource="{Binding Items}" Grid.Row="1">
+                            <ListBox.ItemTemplate>
+                                <DataTemplate>
+                                    <TextBlock Style="{StaticResource BodyTextBlockStyle}" Text="{Binding Title}" />
+                                </DataTemplate>
+                            </ListBox.ItemTemplate>
+                        </ListBox>
+                            <TextBlock Text="{Binding Table.Description}" Style="{StaticResource SubheaderTextBlockStyle}" Grid.Row="2"/>
+                        <StackPanel Orientation="Vertical" Grid.Row="3">
+                            <TextBlock Text="Special notes:" Style="{StaticResource SubtitleTextBlockStyle}" />
+                            <TextBlock Text="{Binding SpecialRequests}" Style="{StaticResource BodyTextBlockStyle}" />
+                        </StackPanel>
+                        <GridView Grid.Row="5" HorizontalAlignment="Center" VerticalAlignment="Bottom" >
+                            <Button Content="Delete"  FontSize="20" />
+                        </GridView>
+                    </Grid>
+                </DataTemplate>
+            </GridView.ItemTemplate>
+
+
         </GridView>
         <Button Content="Clear All Orders" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="2" />
     </Grid>
